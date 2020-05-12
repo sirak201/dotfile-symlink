@@ -1,0 +1,8 @@
+[user]
+	name = Sirak Zeray
+	email = sirakzeray@gmail.com
+[alias]
+  graph = log --all --graph --decorate
+  co = checkout
+[core]
+	excludesfile = /Users/sirakzeray/.gitignore_global
